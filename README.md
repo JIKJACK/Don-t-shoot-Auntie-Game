@@ -12,7 +12,7 @@ A game where you have to shoot as many thieves as possible within 60 seconds, wi
 
 [เล่นบน PC](https://jikjack.github.io/Don-t-shoot-Auntie-Game/PC)
 
-# To all readers,
+# To all readers
 Honestly, I should have uploaded this game to the Google Play Store, but I encountered numerous issues, a lot of headaches, and financial problems. So, I searched for ways to overcome these obstacles and that led me here, GitHub. I don't care if what I've uploaded is considered good or bad in your eyes, but I want you to know that I'm committed to this. That's all I have to say. Thank you. 🙏
 
 # ถึงผู้อ่านทุกท่าน
